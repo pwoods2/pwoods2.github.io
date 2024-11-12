@@ -1,2 +1,2 @@
-# pwoods2.github.io
-# Just a blank file to get us started.
+# Hi there!
+This is a space for me to practice and learn HTML! Feel free to follow along. :)
